@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nlp-live-chat",
+  "private_key_id": "911154ce99ebeb969b83e580f38c6116bd06aa56",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCdhzHxsUePaBBg\nU0K4G23QJSb+58wXhIK4e+O58g4pHBdtT/RkbmcFD1Mh9T2iNkoXj9C+GaA5o5cJ\ntmZEnQCXuDsWCAttPcg9+W6ecM/eeby8CyTPkDnmqJKIJafhq9GKlyFBeHm1WLaD\nLRgV22w0op9FcH/XH/KVwlc9EBZ6zUo/9n7HrKpCLqHH6hj/RInvm2PKD88tB1iL\n+AjtPvI/0W3fX48ya3HxltxWOSRPUgo3Tbr3WIET1reNGZNAG/y4HBJAze70Q+Dl\nq7/z4l3BGLvnhUwjjAfRsxJYLQuCQgKRwyi5mwPfUB9QUmc+Now7khCD9RjLuwGT\nYsZhx01ZAgMBAAECggEASJu5phUYDl4hejy2WoTuC0wsmr694DMoS59zGlCbPVCg\n7bY2SBppKrhjEZpn075hTVXxGcZXB2pDYmsr3UFetg/pUCDaH3qkMwim96m47ms/\nVo9uYquwPISDsfRlWsvm9BHv9qzwsGlZCsJ8wQpX6DTy479UdZRYrLWcn10sd2Ix\n0k2ON9mrtXT73Cp6TuUdGH++/p/8eCISr8voADOc3p/yW/mL1BH/DVhh4/vqX7Ep\n4k4gleS7B9uZHvfe+4sxdw4YG+76LD4HevJ6eEA9GER+O3xZxMVvmpQFty2q2gZP\n73b8/AJ13/HQBuqzYfLueYkAoz3leaKn9FtPkSD+jwKBgQDYCHXkkMCFm/DNu+kR\naMNH2OEFTIzH0DsbvRE22a0rrN1Yv91/tEogvKz/GosJ2dk1wMoEOXVrQrD7WaGJ\nPEE9O25CJqJlPunt606q4wSBnQe8K9z/7Cz3g5y7fSVMNolRkFLeoF0hx3iKeoeV\np/7M7qnoejyn/fXDrWwrGcjO4wKBgQC6q+HnmRTvip7roo8JVJ5vyr66udfvp0k1\nDPt9/l502JmoTMbL3zfNyDnRIMzIdOQi2rYDH8rzKte76qVOpwrJbypfddYLSPMV\n2xreunGm3VGX3w9RhlDaR1GyrFb9ZZoSlvIsYuIciAZLVPutWP5mRhfn3Yddrz9n\ncPWJAHRLkwKBgBB+tOG627hX688JpgYaRa7atHO/IJCxKZI4oXPaswo+rLf2DmeN\n0IsnXN4tnKgn5hngmowwBvMlqHXIpjjgTOrr+sM6R/QLFbmA2gTaSKHM56ZKgxlX\nYyeS+QinyY1ELL/5kRpGjFXj8SRBrtCSfzYOkxKZIsCA9571QukXkumZAoGBAJtM\nwk2GiudawSoyfKN7lbBV0WXRlTeZSgtruJMym2zEgtmEvmMAWxHFgWxdyGEA9oeU\nw5ZHzfWN8BszdMHBsPSymmL+ystqrmnBdlJUdJcpS2d5OOpPP1bJvMtUG68G5y6O\nC/4nagvokqv7kMK/5i46JEtPfv3O/YXWcT/AdAAnAoGAQ/UahIxYTheWrHjHHpQF\nMBbrIwNasfhRwE59i7XYmakFLugmT1yHFXrmsUBUHDulkncT40TughaT4qDp9CkE\noRewgOSh7w+rpHfHti8VAszdpu1JCwb352Cl9PYYloinXiFDtODPjwa1kdtVEH9V\na7djMwuBdSWLyZb5scrZRyM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "hackathon18@nlp-live-chat.iam.gserviceaccount.com",
+  "client_id": "115391368241943617507",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hackathon18%40nlp-live-chat.iam.gserviceaccount.com"
+}

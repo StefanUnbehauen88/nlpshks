@@ -1,0 +1,3 @@
+GOOGLE_APPLICATION_CREDENTIALS = C:\ccstg\bshweb\src\hackathon\nlp-chat\src\main\resources\NLP-Live-Chat-911154ce99eb.json
+
+PATH erweitern um ;GRPC_PROXY_EXP="proxy-web.sha.vrkw.de:8080"
