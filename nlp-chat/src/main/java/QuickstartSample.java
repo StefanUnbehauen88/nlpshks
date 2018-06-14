@@ -9,10 +9,14 @@ public class QuickstartSample
      */
     public static void main(final String... args) throws Exception
     {
-        System.setProperty("https.proxyHost", "proxy-web.sha.vrkw.de");
-        System.setProperty("https.proxyPort", "8080");
-        System.setProperty("https.proxyUser", "k292292");
-        System.setProperty("https.proxyPassword", "");
+        // System.setProperty("https.proxyHost", "proxy-web.sha.vrkw.de");
+        // System.setProperty("https.proxyPort", "8080");
+        // System.setProperty("https.proxyUser", "k292292");
+        // System.setProperty("https.proxyPassword", "");
+
+        final TTSClient ttsClient = new TTSClient();
+
+        ttsClient.createAudioFromText("hallo, das ist ein TEst von Stefan");
 
         // Instantiates a client
         /*try (SpeechClient speechClient = SpeechClient.create())
